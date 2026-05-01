@@ -46,7 +46,9 @@ accessible to any NHS hospital.
 | Daily | Weighted proxy | Regional hybrid model |
 
 Monthly LSTM: MAPE below 6.2% across all 7 NHS regions.
+
 <img width="600" height="500" alt="forecast_plot_London_hybrid_monthly_2025-05" src="https://github.com/user-attachments/assets/ecbcc6a9-d875-4ba4-9e86-ddff7b61516f" />
+
 ---
 
 ## Data Sources (8 Sources Integrated)
