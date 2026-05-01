@@ -113,7 +113,7 @@ makers — unlike commercial black-box tools.
 ## How to Run
 
 1. Clone the repo
-git clone https://github.com/VirajGawade/nhs-regional-forecast
+git clone https://github.com/VirajGawade/NHS-AE-Attendance-Forecasting-System
 
 2. Install requirements
 pip install -r requirements.txt
