@@ -101,7 +101,7 @@ makers - unlike commercial black-box tools.
 ## System Architecture
 
 **Pipeline:**
-1. Data collection (8 sources, April 2019 – May 2025)
+1. Data collection (8 sources, April 2019 - May 2025)
 2. Data cleaning & regional alignment (20 → 7 NHS regions)
 3. Monthly → Weekly conversion using Google Trends weights
 4. Feature engineering (lag features, rolling stats, seasonal flags)
