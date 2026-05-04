@@ -1,16 +1,18 @@
 # NHS A&E Attendance Forecasting System
 
-## 🎓 MSc Dissertation — Queen Mary University of London, 2025
+## 🎓 MSc Dissertation - Queen Mary University of London, 2025
 **Supervisor: Alireza Sanaee | Programme: MSc Big Data Science**
 
 An end-to-end, production-ready forecasting system for predicting 
 NHS Accident & Emergency attendance across all 7 NHS England regions, 
 using a hybrid LSTM + Machine Learning approach with SHAP 
-explainability — deployed as an interactive Streamlit dashboard.
+explainability - deployed as an interactive Streamlit dashboard.
 
 **Tech Stack:** Python · TensorFlow/Keras · Scikit-learn · XGBoost · 
 Pandas · NumPy · SHAP · Streamlit · Google Trends API · 
 Met Office Data · NHS Open Data
+
+🔗 **Live Dashboard:** https://virajgawade-nhs-regional-forecast-streamlit-app-7kdb2o.streamlit.app
 
 ---
 
@@ -33,7 +35,7 @@ accessible to any NHS hospital.
 - Forecasts separately for all **7 NHS England regions**
 - Combines LSTM and ML predictions via a **hybrid weighted model**
 - Explains predictions using **SHAP** (SHapley Additive Explanations)
-- Deploys via **interactive Streamlit dashboard** — no coding needed
+- Deploys via **interactive Streamlit dashboard** - no coding needed
 
 ---
 
@@ -82,7 +84,7 @@ Hybrid = 0.7 × ML + 0.3 × LSTM
 
 ## SHAP Explainability
 
-ML models are explained using SHAP — showing which features 
+ML models are explained using SHAP - showing which features 
 drive predictions up or down. Key influential features include:
 - Other_Attendances (lagged)
 - Type1_Attendances (lagged)
@@ -92,7 +94,7 @@ drive predictions up or down. Key influential features include:
 - Emergency_Admissions
 
 This makes the system transparent for non-technical NHS decision 
-makers — unlike commercial black-box tools.
+makers - unlike commercial black-box tools.
 
 ---
 
@@ -148,6 +150,6 @@ streamlit run streamlit_app.py
 ## Author
 
 **Viraj Gawade**
-MSc Big Data Science — Queen Mary University of London, 2025
+MSc Big Data Science - Queen Mary University of London, 2025
 linkedin.com/in/viraj-gawade-b7b346262 | 
 github.com/VirajGawade
