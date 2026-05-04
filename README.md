@@ -128,7 +128,7 @@ streamlit run streamlit_app.py
 - Select model (Hybrid / LSTM / ML)
 - Select granularity (Monthly / Weekly / Daily)
 - Select date
-- Click Run — view forecast + SHAP explanation
+- Click Run - view forecast + SHAP explanation
 
 ---
 
